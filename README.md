@@ -3,7 +3,7 @@ A Python implementation of [Mathematica-Keygen-Mechanism](https://github.com/Wu-
 
 Use the `--auto` flag to automatically fetch MathID, generate keys and perform activation. Ideal for volume activation.
 
-  python keygen.py --auto
+    python keygen.py --auto
 
 Tested only on Mathematica 14.1.0. Use at your own risk.
 
